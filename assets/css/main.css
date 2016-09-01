@@ -1,0 +1,13 @@
+/* ===
+	Basic style for the content
+===*/
+.blog-post .post-topic{
+	border-bottom: 1px solid #cacaca;
+	padding: 15px 0;
+}
+.blog-post .post-topic:last-child{
+	border-bottom: none;
+}
+.blog-post .post-topic .image-profile{
+	margin-right: 10px;
+}

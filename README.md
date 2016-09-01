@@ -1,2 +1,2 @@
-# twitter-api
-API do Twitter trazendo todas os posts com #encosteocarrinho
+# Twitter API
+API do Twitter trazendo todos os posts com #encosteocarrinho
